@@ -1,17 +1,17 @@
-# SimTag (Experimento IA)
+# SimTag (AI Experiment)
 
-> Este proyecto es un experimento inspirado en la herramienta oficial [SimTag](https://aryamansharda.gumroad.com/l/sim-tag?ref=digitalbunker.dev), pero generado con IA como prueba de concepto. No es una versión oficial ni está afiliado al autor original.
+> This project is an experiment inspired by the official tool [SimTag](https://aryamansharda.gumroad.com/l/sim-tag?ref=digitalbunker.dev), but generated with AI as a proof of concept. It is not an official version nor is it affiliated with the original author.
 
-## Descripción
-SimTag es una utilidad para macOS que permite superponer información relevante sobre las ventanas de simuladores de Xcode. Sus principales funcionalidades incluyen:
+## Description
+SimTag is a macOS utility that overlays relevant information on Xcode simulator windows. Its main features include:
 
-- Detección automática de simuladores activos.
-- Superposición de información como nombre del repositorio, rama de Git y estado de cambios.
-- Integración con la barra de menú para ajustes rápidos y permisos.
-- Persistencia de configuraciones personalizadas.
-- Detección de repositorios en carpetas de DerivedData.
-- Gestión de permisos para capturas de pantalla y overlays.
-- Monitorización de cambios en repositorios Git.
+- Automatic detection of active simulators.
+- Overlay of information such as repository name, Git branch, and change status.
+- Menu bar integration for quick settings and permissions.
+- Persistence of custom configurations.
+- Detection of repositories in DerivedData folders.
+- Permission management for screenshots and overlays.
+- Monitoring of changes in Git repositories.
 
 ---
 # ![SimTag](simtag.png)
